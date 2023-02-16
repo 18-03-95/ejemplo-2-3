@@ -1,8 +1,9 @@
 # RESULTADOS ELECTORALES
 
 ## IMAGENES DE LOS CANDIDATOS
-![GUERRERO YAGUAL](/ruta/a/la/image.jpg)
-![CINTIA VITERI](/ruta/a/la/image.jpg)
+*![GUERRERO YAGUAL](/ruta/a/la/image.jpg)
+*![CINTIA VITERI](/ruta/a/la/image.jpg)
+
 
 ##  RESULTADOS
 
