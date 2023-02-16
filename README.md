@@ -1,22 +1,14 @@
+# RESULTADOS ELECTORALES
 
+## IMAGENES DE LOS CANDIDATOS
+![GUERRERO YAGUAL](/ruta/a/la/image.jpg)
+![CINTIA VITERI](/ruta/a/la/image.jpg)
 
-
-Ejemplo de mi pagina WEB HOLA MUNDO
-
-IMAGE
-![Texto alternativo](/ruta/a/la/imagen.jpg)
-
-ENCABEZADOS
-# Encabezado 1
-## Encabezado 2
-### Encabezado 3
-#### Encabezado 4
-##### Encabezado 5
-###### Encabezado 
+##  RESULTADOS
 
 TABLAS
 
-| Título  | Título   |
+| CANDIDATOS | VOTOS |
 | ------- | -------- |
-| Texto   | Texto    |
-| Texto   | Texto    |
+| GUERRERO YAGUAL | 552.976 |
+| CINTIA VITERI |  420.345 |
